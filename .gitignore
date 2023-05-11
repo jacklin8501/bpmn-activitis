@@ -1,0 +1,14 @@
+.gradle
+.vscode
+.settings
+.classpath
+.project
+bin
+build
+node_modules
+dist
+bak_up
+*.iml
+*.ipr
+*.iws
+.DS_Store
